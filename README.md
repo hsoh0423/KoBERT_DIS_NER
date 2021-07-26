@@ -81,6 +81,10 @@ KoBERT_DIS_NER은 동물 질병명 인식을 위해 만들기 시작했지만, �
 
 하지만 사람 질병 문장을 이용했을 때 동물 질병 개체명 인식에 유의미한 결과가 있다는 것이 이번 모델을 만들면서 의미 있는 부분이 아니었나 싶다.
 
+# 모델
+
+- [DIS_NER](https://drive.google.com/drive/folders/16ie8dPyEVzzcDFEFRyPfcI8SdSBMi3g6?usp=sharing)
+
 # Reference Repo
 
 1. [KoBERT](https://github.com/SKTBrain/KoBERT)

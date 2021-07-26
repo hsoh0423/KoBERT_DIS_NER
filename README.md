@@ -83,7 +83,7 @@ KoBERT_DIS_NER은 동물 질병명 인식을 위해 만들기 시작했지만, �
 
 # 모델
 
-- [DIS_NER](https://drive.google.com/drive/folders/16ie8dPyEVzzcDFEFRyPfcI8SdSBMi3g6?usp=sharing)
+- [DIS_NER](https://drive.google.com/file/d/14EdYwBodW2gtMTy3HVYIBMVfYU2sWri7/view?usp=sharing)
 
 # Reference Repo
 
